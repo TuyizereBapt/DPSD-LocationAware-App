@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LocationAware</string>
+    <string name="no_permission_warning">The app needs permission to access your current location to function.</string>
+    <string name="null_location_message">Not available</string>
+    <string name="sms_body">
+        Hello! We are just testing messages. It\'s students from Carnegie Mellon University Africa.
+        The sender\'s location coordinates are: (Lat=%.2f, Long=%.2f)
+    </string>
+    <string name="current_location">Current Location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="map_me">Map Me</string>
+    <string name="text_me">Text Me</string>
+    <string name="default_location_text">(15, -30.6)</string>
+</resources>
